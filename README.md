@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! ClearVision v6.1.0 by the CV team */
+/*! Tokyo  Revengers v2.1.0 by mathpcd */
 /*! Powered by DiscordSelectors v0.2.7 */
 /* DEFAULT SETTINGS */
 :root {
@@ -26,7 +26,7 @@
   --avatar-roundness: 50%;
   --background-shading: 100%;
   --background-overlay: rgba(0, 0, 0, .6);
-  --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+  --background-image: url(https://wallpapercave.com/wp/wp5683083.jpg);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -75,7 +75,7 @@
   --user-modal-grayscale: var(--background-grayscale);
   --user-modal-sepia: var(--background-sepia);
   --user-modal-blur: calc(var(--background-blur) + 3px);
-  --home-icon: url(https://clearvision.gitlab.io/icons/discord.svg);
+  --home-icon: url(https://64.media.tumblr.com/8c56bf39be3210e6b6b37d66a97362d5/08ba3cadbc14dd94-94/s1280x1920/e15388d70debd3dd9b1458e6cc742ededac98a8e.jpg);
   --home-position: center;
   --home-size: 40px;
 }
